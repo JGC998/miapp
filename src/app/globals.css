@@ -24,3 +24,11 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* h1 {
+  font-size: 40px;
+} */
+
+.miclase {
+  border: solid black 2px;
+}
